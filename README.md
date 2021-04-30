@@ -1,1 +1,1 @@
-# LearningJava for demostration
+# LearningJava for demonstration
